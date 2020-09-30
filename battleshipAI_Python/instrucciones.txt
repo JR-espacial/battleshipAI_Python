@@ -1,0 +1,19 @@
+BATTLESHIP INSTRUCTIONS (THESE INSTRUCTIONS WILL DISAPPEAR IN 30 SECONDS)
+
+Welcome to the game!!! Before we start it is important that you know the rules.
+
+This game is a strategy game that emulates a naval battle between warships.
+The game itself consists of two players facing each other and trying to guess where the enemy's ships are.
+In this game you will play against the computer and each turn you will have an opportunity to shoot.
+How do I start?
+The first thing you should do is place your 5 ships first, the ship that occupies 5 squares
+then the one with 4 then 2 ships of 3 and finally the ship of 2 place your ships strategically.
+To place a ship you must do 2 clicks the first in the box where you want it to
+start your ship and the second in a square netx to the first square you clicked in the direction you want it to be placed
+ If the rest of the boat does not let you place it, it is because it does not fit in that orientation, try another.
+After placing all your ships start shooting on the enemy board trying to guess
+where are the enemy ships. The boxes will be colored according to what was in them
+if you fail it will be colored blue if you hit the square it will be colored green and if you sink a ship all
+ The ship will turn red if it does not turn red it means that you have not sunk it yet.
+
+    Good luck !!!     The first to sink all 5 ships wins !!!!

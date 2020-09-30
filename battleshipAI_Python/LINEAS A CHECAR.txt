@@ -1,0 +1,11 @@
+ Hasta ahora empleo:
+    archivos  y cadenas para desplegar las instrucciones del programa despliega_instrucciones() linea 180-186
+    calculos para determinar la posción en que se dibuja el tablero así como los
+    identificadores de columnas(letras) y filas (numeros)
+    calculos,funciones,eventos,ciclos, condicionales y listas anidadas para colocar y dibujar los barcos
+    calculos,funciones,eventos, condicionales y listas anidadas para determinar la posicion donde se dio click y poder colorear la casilla donde tiraste
+    de el color correspondiente dependiendo de si hay un barco en esa casilla
+    calculos,matrices y fuciones que dibujan un barco en rojo cuando se hunde
+    random,calculos,funciones,eventos,matrices,listas,banderas y un arbol de deciciones para generar tiros de la computadora linea 535-850
+    
+PORFAVOR VOLVER A CHECAR LISTAS ANIDADAS y chechar el excel pues apeser de tener casi todas las competencias no aparecen en la colomna de evidencias
