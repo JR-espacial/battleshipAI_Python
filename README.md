@@ -1,2 +1,1 @@
-# CV
-PROJECTS CODE
+Python Automated game play against ai
